@@ -11,12 +11,7 @@
   - MongoDB
   - Redis
   - Git
-  
-# Installation
-  - Clone the repository: git clone : https://github.com/Niteshthori24198/substantial-money-3994
-  - Install dependencies: npm install
-  - Start the server: npm run server
-  
+
 # Features
 
   - This project has the following features:
@@ -148,9 +143,7 @@
 
   - Nitesh Kumar
   - Kishan Sharma
-  - Venkatesh Tiwari
-  - Rajesh Kumar
-  - Pankaj Jain
+  - Shubham Singh
 
   # License
 
