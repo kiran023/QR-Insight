@@ -102,7 +102,7 @@
 
   The Blog page displays articles and posts related to the website's content.
 
-  ![Blogpage](https://github.com/Niteshthori24198/substantial-money-3994/assets/62844049/b12cc071-b1cc-4e0d-9277-18ddc35a1ba0)
+  ![Blogpage](https://github.com/Shubhamsingh7248/QR-Insight/blob/3042961c9c2541898746c141b194070c10decf03/Front-End/images/developer/Venkatesh.jpg)
 
   ## Contact Page
 
